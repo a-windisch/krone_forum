@@ -18,7 +18,7 @@ Daten zur Beantwortung dieser Fragestellung:
 Die ersten beiden Dateien beinhalten die Kommentare zu den Krone-Artikeln vom 20. Juli 2018 und vom 13. Mai 2018. Diese Daten sind ungeordnet, werden nicht zur Analyse herangezogen, und stehen nur  der Vollstaendigkeit halber hier zur Verfuegung. Die Datei krone_forum.R erzeugt einfache line plots der likes/dislikes fuer den jeweiligen Artikel. Die csv Dateien beinhalten die positiven (likes) und negativen (dislikes) Bewertungen der jeweiligen Forenbeitraege.   
 Folgende Artikel wurden zur Analyse herangezogen:   
 - [Krone Artikel vom 20. Juli 2018](https://www.krone.at/1743023), Foren-User vermuten Manipulation   
-- [Krone Artikel vom 13. Juli 2018](https://www.krone.at/1707120), Artikel zu aehnlichem Vorfall wie dem vom 20. Juli 2018, Foren-User vermuten keine Manipulation   
+- [Krone Artikel vom 13. Mai 2018](https://www.krone.at/1707120), Artikel zu aehnlichem Vorfall, Foren-User vermuten keine Manipulation   
 - [Standard Artikel vom 20. Juli 2018](https://derstandard.at/2000083855951/Mehrere-Verletzte-nach-Gewalttat-mit-Messer-in-Bus-in-Luebeck), Artikel zum selben Vorfall wie der erste Krone Artikel, dient zum Vergleich      
 Alle Daten wurden von Hand eingegeben, was aufgrund der Tatsache dass diese Analyse weder wiederholt noch vertieft wird gerechtfertigt ist. Potentielle Fehler, die durch die haendische Eingabe entstehen koennen, beinflussen die Qualitaet dieser groben Analyse nicht.
 
