@@ -1,6 +1,19 @@
-setwd("SET YOUR WORKING DIRECTORY HERE")
+##################################################
+## analyzing psuspected pecularities in forum   ##
+## online platform krone.at (suspected by users)##
+## Andreas Windisch, andreas.windisch@yahoo.com ##
+##################################################
 
-#read in the data
+
+setwd("/home/andreas/GitHub/krone_forum/")
+
+
+
+#read in the data:
+#juldata....likes/dislikes for article (krone.at) from Jul-20-2018, users suspect manipulation
+#maydata....likes/dislikes for article (krone.at) from May-13-2018, users have no suspicion
+#stddata....likes/dislikes for article (derstandard.at) from Jul-20-2018, used for comparison
+
 juldata <- read.csv("krone_likes_dislikes_Jul_20_2018.csv", skip=2 )
 maydata <- read.csv("krone_likes_dislikes_May_13_2018.csv", skip=2 )
 stddata <- read.csv("standard_likes_dislikes_Jul_20_2018.csv", skip=2 )
