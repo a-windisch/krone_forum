@@ -21,7 +21,9 @@ Die ersten beiden Dateien beinhalten die Kommentare zu den Krone-Artikeln vom 20
 Folgende Artikel wurden zur Analyse herangezogen:   
 - [Krone Artikel vom 20. Juli 2018](https://www.krone.at/1743023), Foren-User vermuten Manipulation   
 - [Krone Artikel vom 13. Mai 2018](https://www.krone.at/1707120), Artikel zu aehnlichem Vorfall, Foren-User vermuten keine Manipulation   
-- [Standard Artikel vom 20. Juli 2018](https://derstandard.at/2000083855951/Mehrere-Verletzte-nach-Gewalttat-mit-Messer-in-Bus-in-Luebeck), Artikel zum selben Vorfall wie der erste Krone Artikel, dient zum Vergleich      
+- [Standard Artikel vom 20. Juli 2018](https://derstandard.at/2000083855951/Mehrere-Verletzte-nach-Gewalttat-mit-Messer-in-Bus-in-Luebeck), Artikel zum selben Vorfall wie der erste Krone Artikel, dient zum Vergleich     
+   
+    
 Alle Daten wurden von Hand eingegeben, was aufgrund der Tatsache dass diese Analyse weder wiederholt noch vertieft wird gerechtfertigt ist. Potentielle Fehler, die durch die haendische Eingabe entstehen koennen, beinflussen die Qualitaet dieser groben Analyse nicht.
 
 ## 3 Starke Korrelation zwischen Likes/Dislikes
