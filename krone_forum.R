@@ -1,5 +1,5 @@
 ##################################################
-## analyzing psuspected pecularities in forum   ##
+## analyzing suspected pecularities in forum of ##
 ## online platform krone.at (suspected by users)##
 ## Andreas Windisch, andreas.windisch@yahoo.com ##
 ##################################################
